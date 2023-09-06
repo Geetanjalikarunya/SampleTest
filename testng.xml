@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="sampleTests.SampleTest2"/>
-      <class name="sampleTests.SampleTest1"/>
+      <class name="sampleTests.JenkinParamerizationTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
